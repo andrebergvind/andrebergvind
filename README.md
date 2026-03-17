@@ -38,5 +38,5 @@ Key aspects of the analysis include:
 
 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
 
-🔗 **View the full project:** [Cyclistic Analysis Folder](./Cyclistic-Analysis/) 
+🔗 **View the full project:** [Cyclistic Bike Share Analysis](https://github.com/andrebergvind/Cyclistic-bike-share-analysis) 
 
