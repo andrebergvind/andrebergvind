@@ -50,6 +50,11 @@ A data analysis project, part of the Google Data Analytics course, exploring beh
 
 **Skills demonstrated:** SQL (BigQuery), Tableau, data cleaning, business analysis, visualization, actionable recommendations.  
 
+**Findings:**
+- Members are consistent riders who use bikes for commuting; casual riders are occasional and leisure-focused.
+- Casual rides are longer on average, but happen less frequently.
+- Casual users mostly start around recreational areas, suggesting a behavioral difference that could be targeted for membership marketing
+
 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
 
 🔗 **View the full project:** [Cyclistic Bike Share Analysis](https://github.com/andrebergvind/Cyclistic-bike-share-analysis) 
