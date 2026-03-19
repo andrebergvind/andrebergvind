@@ -19,14 +19,15 @@ Using survey data, I investigated how exercise behaviour (frequency, intensity, 
 
 **Objective:** Understand how student's academic productivity levels are immediately affected by physical exercise.
 
-Key aspects of the analysis include:
-- Examining how exercise frequency relates to perceived productivity
-- Analysing relationships between cognitive effects and productivity
-- Comparing productivity outcomes across exercise types and intensity levels
+**Key Highlights:**
+- Examined how exercise frequency relates to perceived productivity
+- Analysef relationships between cognitive effects and productivity
+- Compared productivity outcomes across exercise types and intensity levels
+- Delivered recommendations based on findings
 
 **Skills demonstrated:** Google Sheets, Tableau, data cleaning, exploratory data analysis, statistical analysis, data interpretation, critical thinking, visualization
 
-**Key Findings:**
+**Findings:**
 - Higher exercise frequency is generally associated with higher reported productivity levels.
 - Cognitive effects such as increased energy and motivation show strong positive relationships with productivity.
 - Reduced stress following exercise also appears to contribute to improved productivity.
@@ -41,13 +42,13 @@ A data analysis project, part of the Google Data Analytics course, exploring beh
 
 **Objective:** Understand how casual vs member users behave differently and provide recommendations to convert casual riders into annual members.  
 
-**Skills demonstrated:** SQL (BigQuery), Tableau, data cleaning, business analysis, visualization, actionable recommendations.  
-
 **Key Highlights:**
 - Cleaned and transformed 12 months of ride data (over 1 million trips)  
 - Validated user types, ride types, durations, and geographic data  
 - Created interactive Tableau dashboards showing ride frequency, duration, bike types, and popular start stations  
-- Developed top three actionable recommendations for Cyclistic’s marketing team  
+- Developed top three actionable recommendations for Cyclistic’s marketing team
+
+**Skills demonstrated:** SQL (BigQuery), Tableau, data cleaning, business analysis, visualization, actionable recommendations.  
 
 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
 
