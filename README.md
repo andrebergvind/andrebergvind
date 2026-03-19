@@ -17,7 +17,7 @@ A data analysis project for my dissertation, exploring the relationship between 
 
 Using survey data, I investigated how exercise behaviour (frequency, intensity, and type) relates to cognitive outcomes such as energy, motivation, and stress reduction. 
 
-**Objective:** Understand how students between 18 and 30 are immediately affected by physical exercise
+**Objective:** Understand how student's academic productivity levels are immediately affected by physical exercise.
 
 Key aspects of the analysis include:
 - Examining how exercise frequency relates to perceived productivity
