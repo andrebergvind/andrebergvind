@@ -26,7 +26,7 @@ Key aspects of the analysis include:
 
 **Skills demonstrated:** Google Sheets, Tableau, data cleaning, exploratory data analysis, statistical analysis, data interpretation, critical thinking, visualization
 
-**Key Insights:**
+**Key Findings:**
 - Higher exercise frequency is generally associated with higher reported productivity levels.
 - Cognitive effects such as increased energy and motivation show strong positive relationships with productivity.
 - Reduced stress following exercise also appears to contribute to improved productivity.
