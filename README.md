@@ -50,7 +50,7 @@ A data analysis project, part of the Google Data Analytics course, exploring beh
 - Created interactive Tableau dashboards showing ride frequency, duration, bike types, and popular start stations  
 - Developed top three actionable recommendations for Cyclistic’s marketing team
 
-**Skills demonstrated:** SQL (BigQuery), Tableau, data cleaning, business analysis, visualization, actionable recommendations.  
+**Skills demonstrated:** SQL (BigQuery), Tableau, data cleaning, business analysis, visualization, actionable recommendations
 
 **Findings:**
 - Members are consistent riders who use bikes for commuting; casual riders are occasional and leisure-focused
