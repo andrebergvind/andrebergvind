@@ -28,10 +28,10 @@ Using survey data, I investigated how exercise behaviour (frequency, intensity, 
 **Skills demonstrated:** Google Sheets, Tableau, data cleaning, exploratory data analysis, statistical analysis, data interpretation, critical thinking, visualization
 
 **Findings:**
-- Higher exercise frequency is generally associated with higher reported productivity levels.
-- Cognitive effects such as increased energy and motivation show strong positive relationships with productivity.
-- Reduced stress following exercise also appears to contribute to improved productivity.
-- Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents.
+- Higher exercise frequency is generally associated with higher reported productivity levels
+- Cognitive effects such as increased energy and motivation show strong positive relationships with productivity
+- Reduced stress following exercise also appears to contribute to improved productivity
+- Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents
 
 🔗 **View the full project:** [Exercise and Student Cognitive Performance](https://github.com/andrebergvind/Capstone-Project-exercise-productivity-analysis.git)
 
@@ -51,8 +51,8 @@ A data analysis project, part of the Google Data Analytics course, exploring beh
 **Skills demonstrated:** SQL (BigQuery), Tableau, data cleaning, business analysis, visualization, actionable recommendations.  
 
 **Findings:**
-- Members are consistent riders who use bikes for commuting; casual riders are occasional and leisure-focused.
-- Casual rides are longer on average, but happen less frequently.
+- Members are consistent riders who use bikes for commuting; casual riders are occasional and leisure-focused
+- Casual rides are longer on average, but happen less frequently
 - Casual users mostly start around recreational areas, suggesting a behavioral difference that could be targeted for membership marketing
 
 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
