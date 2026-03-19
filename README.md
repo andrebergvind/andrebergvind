@@ -13,9 +13,18 @@
 
 ### Exercise and Student Cognitive Performance
 
-A data analysis project exploring the relationship between physical exercise and students' perceived cognitive performance and short-term academic productivity.
+A data analysis project for my dissertation, exploring the relationship between physical exercise and students' perceived cognitive performance and short-term academic productivity.
 
-Using survey data, I investigated how exercise behaviour (frequency, intensity, and type) relates to cognitive outcomes such as energy, motivation, and stress reduction. The dataset was cleaned and structured in Google Sheets before being analysed through interactive dashboards built in Tableau.
+Using survey data, I investigated how exercise behaviour (frequency, intensity, and type) relates to cognitive outcomes such as energy, motivation, and stress reduction. 
+
+**Objective:** Understand how students between 18 and 30 are immediately affected by physical exercise
+
+Key aspects of the analysis include:
+- Examining how exercise frequency relates to perceived productivity
+- Analysing relationships between cognitive effects and productivity
+- Comparing productivity outcomes across exercise types and intensity levels
+
+**Skills demonstrated:** Google Sheets, Tableau, data cleaning, exploratory data analysis, statistical analysis, data interpretation, critical thinking, visualization
 
 Key aspects of the analysis include:
 - Examining how exercise frequency relates to perceived productivity
@@ -26,6 +35,9 @@ Key aspects of the analysis include:
 
 
 ### Cyclistic Bike Share Analysis
+
+A data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies
+
 **Objective:** Understand how casual vs member users behave differently and provide recommendations to convert casual riders into annual members.  
 
 **Skills demonstrated:** SQL (BigQuery), Tableau, data cleaning, business analysis, visualization, actionable recommendations.  
