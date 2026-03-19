@@ -33,6 +33,8 @@ Using survey data, I investigated how exercise behaviour (frequency, intensity, 
 - Reduced stress following exercise also appears to contribute to improved productivity
 - Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents
 
+**Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
 🔗 **View the full project:** [Exercise and Student Cognitive Performance](https://github.com/andrebergvind/Capstone-Project-exercise-productivity-analysis.git)
 
 
