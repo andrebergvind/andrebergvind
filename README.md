@@ -26,7 +26,7 @@ Key aspects of the analysis include:
 
 **Skills demonstrated:** Google Sheets, Tableau, data cleaning, exploratory data analysis, statistical analysis, data interpretation, critical thinking, visualization
 
-**Key Highlights:**
+**Key Insights:**
 - Higher exercise frequency is generally associated with higher reported productivity levels.
 - Cognitive effects such as increased energy and motivation show strong positive relationships with productivity.
 - Reduced stress following exercise also appears to contribute to improved productivity.
@@ -47,7 +47,7 @@ A data analysis project, part of the Google Data Analytics course, exploring beh
 - Cleaned and transformed 12 months of ride data (over 1 million trips)  
 - Validated user types, ride types, durations, and geographic data  
 - Created interactive Tableau dashboards showing ride frequency, duration, bike types, and popular start stations  
-- Developed **top three actionable recommendations** for Cyclistic’s marketing team  
+- Developed top three actionable recommendations for Cyclistic’s marketing team  
 
 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
 
