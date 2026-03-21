@@ -19,7 +19,7 @@ Using survey data, I investigated how exercise behaviour (frequency, intensity, 
 
 **Objective:** Understand how student's academic productivity levels are immediately affected by physical exercise.
 
-**Key Highlights:**
+**Highlights:**
 - Examined how exercise frequency relates to perceived productivity
 - Analysef relationships between cognitive effects and productivity
 - Compared productivity outcomes across exercise types and intensity levels
@@ -27,11 +27,11 @@ Using survey data, I investigated how exercise behaviour (frequency, intensity, 
 
 **Skills demonstrated:** Google Sheets, Tableau, data cleaning, exploratory data analysis, statistical analysis, data interpretation, critical thinking, visualization
 
-**Findings:**
-- Higher exercise frequency is generally associated with higher reported productivity levels
-- Cognitive effects such as increased energy and motivation show strong positive relationships with productivity
-- Reduced stress following exercise also appears to contribute to improved productivity
-- Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents
+**Key Insights:**
+1. Higher exercise frequency is generally associated with higher reported productivity levels
+2. Cognitive effects such as increased energy and motivation show strong positive relationships with productivity
+3. Reduced stress following exercise also appears to contribute to improved productivity
+4. Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents
 
 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
@@ -44,7 +44,7 @@ A data analysis project, part of the Google Data Analytics course, exploring beh
 
 **Objective:** Understand how casual vs member users behave differently and provide recommendations to convert casual riders into annual members.  
 
-**Key Highlights:**
+**Highlights:**
 - Cleaned and transformed 12 months of ride data (over 1 million trips)  
 - Validated user types, ride types, durations, and geographic data  
 - Created interactive Tableau dashboards showing ride frequency, duration, bike types, and popular start stations  
@@ -52,10 +52,10 @@ A data analysis project, part of the Google Data Analytics course, exploring beh
 
 **Skills demonstrated:** SQL (BigQuery), Tableau, data cleaning, business analysis, visualization, actionable recommendations
 
-**Findings:**
-- Members are consistent riders who use bikes for commuting; casual riders are occasional and leisure-focused
-- Casual rides are longer on average, but happen less frequently
-- Casual users mostly start around recreational areas, suggesting a behavioral difference that could be targeted for membership marketing
+**Key Insights:**
+1. Analysis shows casual riders tend to take longer trips compared to members and are more active on Saturdays and Sundays
+2. Ride origin data indicates casual users predominantly begin their trips in parks, tourist spots, and other recreational locations
+3. Members exhibit strong ride activity spikes during morning and evening commute times, whereas casual riders gradually increase activity until late afternoon
 
 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
 
