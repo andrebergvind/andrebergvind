@@ -15,8 +15,6 @@
 
 A data analysis project for my dissertation, exploring the relationship between physical exercise and students' perceived cognitive performance and short-term academic productivity.
 
-Using survey data, I investigated how exercise behaviour (frequency, intensity, and type) relates to cognitive outcomes such as energy, motivation, and stress reduction. 
-
 **Objective:** Understand how student's academic productivity levels are immediately affected by physical exercise.
 
 **Highlights:**
