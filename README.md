@@ -15,6 +15,8 @@
 
 A data analysis project for my dissertation, exploring the relationship between physical exercise and students' perceived cognitive performance and short-term academic productivity.
 
+This study primarily applies descriptive analysis to summarize participant responses, complemented by exploratory data analysis to identify patterns and relationships between exercise and perceived academic productivity.
+
 **Objective:** Understand how student's academic productivity levels are immediately affected by physical exercise.
 
 **Highlights:**
@@ -38,7 +40,7 @@ A data analysis project for my dissertation, exploring the relationship between 
 
 ### Cyclistic Bike Share Analysis
 
-A data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies
+A data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies.
 
 **Objective:** Understand how casual vs member users behave differently and provide recommendations to convert casual riders into annual members.  
 
