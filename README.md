@@ -17,8 +17,7 @@ A data analysis project analyzing delivery performance data from Glovo India to 
 
 **Objective:** Identify key factors influencing delivery delays to support Glovo’s operational improvements and enhance customer satisfaction.
 
-## Highlights
-
+**Highlights:**
 - Cleaned and prepared a dataset of 50,000 delivery records using SQL  
 - Created calculated metrics such as late delivery rate and delay duration  
 - Analyzed delivery performance across different areas to identify patterns  
@@ -28,8 +27,7 @@ A data analysis project analyzing delivery performance data from Glovo India to 
 
 **Skills demonstrated:** Excel, SQL (PostgreSQL), Tableau, data cleaning, operation analysis, visualization, actionable recommendations
 
-## Key Insights
-
+**Key Insights:**
 - ~49% of deliveries are late, indicating a major operational issue  
 - Late deliveries significantly reduce customer ratings: 4.5 → 3.58
 - Some areas show consistently high late delivery rates 
