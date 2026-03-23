@@ -11,6 +11,35 @@
 
 ## Portfolio Projects
 
+### Glovo Delivery Performance Analysis
+
+A data analysis project analyzing delivery performance data from Glovo India to identify key operational issues affecting delivery reliability and customer satisfaction.
+
+**Objective:** Identify key factors influencing delivery delays to support Glovo’s operational improvements and enhance customer satisfaction.
+
+## Highlights
+
+- Cleaned and prepared a dataset of 50,000 delivery records using SQL  
+- Created calculated metrics such as late delivery rate and delay duration  
+- Analyzed delivery performance across different areas to identify patterns  
+- Evaluated the impact of delivery delays on customer ratings  
+- Built an interactive Tableau dashboard to visualize key insights  
+- Identified operational problem types, including high delay frequency and high delay severity  
+
+**Skills demonstrated:** Excel, SQL (PostgreSQL), Tableau, data cleaning, operation analysis, visualization, actionable recommendations
+
+## Key Insights
+
+- ~49% of deliveries are late, indicating a major operational issue  
+- Late deliveries significantly reduce customer ratings: 4.5 → 3.58
+- Some areas show consistently high late delivery rates 
+- Other areas experience less frequent but more severe delays
+
+**Interactive Dashboard:** [View on Tableau Public]([https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/GlovoE-CommerceAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
+
+🔗 **View the full project:** [Glovo Deliver Performance Analysis](https://github.com/andrebergvind/glovo-delivery-performance-analysis.git)
+
+
 ### Exercise and Student Cognitive Performance
 
 A data analysis project for my dissertation, exploring the relationship between physical exercise and students' perceived cognitive performance and short-term academic productivity.
