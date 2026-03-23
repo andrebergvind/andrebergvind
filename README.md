@@ -35,7 +35,7 @@ A data analysis project analyzing delivery performance data from Glovo India to 
 - Some areas show consistently high late delivery rates 
 - Other areas experience less frequent but more severe delays
 
-**Interactive Dashboard:** [View on Tableau Public]([https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/GlovoE-CommerceAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
+**Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/GlovoE-CommerceAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
 
 🔗 **View the full project:** [Glovo Deliver Performance Analysis](https://github.com/andrebergvind/glovo-delivery-performance-analysis.git)
 
