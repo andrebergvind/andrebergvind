@@ -9,7 +9,7 @@
 - Data Visualisation
 - Exploratory Data Analysis
 
-## Portfolio Projects
+# Portfolio Projects
 
 ### Glovo Delivery Performance Analysis
 
