@@ -11,7 +11,7 @@
 
 # Portfolio Projects
 
-### Glovo Delivery Performance Analysis
+## Glovo Delivery Performance Analysis
 
 A data analysis project analyzing delivery performance data from Glovo India to identify key operational issues affecting delivery reliability and customer satisfaction.
 
@@ -39,7 +39,7 @@ A data analysis project analyzing delivery performance data from Glovo India to 
 
 
 
-### Exercise and Student Cognitive Performance
+## Exercise and Student Cognitive Performance
 
 A data analysis project for my dissertation, exploring the relationship between physical exercise and students' perceived cognitive performance and short-term academic productivity.
 
@@ -67,7 +67,7 @@ This study primarily applies descriptive analysis to summarize participant respo
 
 
 
-### Cyclistic Bike Share Analysis
+## Cyclistic Bike Share Analysis
 
 A data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies.
 
