@@ -74,7 +74,7 @@ A data analysis project, part of the Google Data Analytics course, exploring beh
 **Objective:** Understand how casual vs member users behave differently and provide recommendations to convert casual riders into annual members.  
 
 **Highlights:**
-- Cleaned and transformed 12 months of ride data (over 1 million trips)  
+- Cleaned and transformed 12 months of ride data (over 5 million trips)  
 - Validated user types, ride types, durations, and geographic data  
 - Created interactive Tableau dashboards showing ride frequency, duration, bike types, and popular start stations  
 - Developed top three actionable recommendations for Cyclistic’s marketing team
