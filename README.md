@@ -1,5 +1,7 @@
 # André Bergvind - Data Analytics Portfolio
 
+Business & Data Analyst. Passionate about transforming data into actionable business insights and supporting data-driven decision-making through analytics, visualization, and problem-solving.
+
 ## Skills
 - Excel
 - SQL
