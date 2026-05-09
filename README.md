@@ -19,6 +19,7 @@ Business & Data Analyst passionate about transforming data into actionable busin
 A data analysis project analyzing delivery performance data from Glovo India to identify key operational issues affecting delivery reliability and customer satisfaction.
 
 **Tools:** Excel, SQL (PostgreSQL), Tableau
+
 **Focus Areas:** Operations Analysis, KPI Tracking, Delivery Performance, Data Visualisation, Business Insights
 
 **Key Contributions:**
@@ -48,6 +49,7 @@ A data analysis project for my dissertation, exploring the relationship between 
 This study primarily applies descriptive analysis to summarize participant responses, complemented by exploratory data analysis to identify patterns and relationships between exercise and perceived academic productivity.
 
 **Tools:** Google Forms, Google Sheets, Tableau
+
 **Focus Areas:** Exploratory Data Analysis, Statistical Analysis, Explanatory Behavioural Analysis, Data Visualisation, Reserach Interpretation.
 
 
@@ -75,6 +77,7 @@ This study primarily applies descriptive analysis to summarize participant respo
 A data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies.
 
 **Tools:** SQL (BigQuery), Tableau
+
 **Focus Areas:** Data Cleaning, Customer Behaviour Analysis, Data Visualisation, Business Strategy
 
 
