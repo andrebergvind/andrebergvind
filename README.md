@@ -4,12 +4,13 @@ Business & Data Analyst. Passionate about transforming data into actionable busi
 
 ## Skills
 - Excel
-- SQL
+- SQL(PosgreSQL)
 - Tableau
 - Looker Studio
-- Data Cleaning
+- Data Cleaning & Transformation
 - Data Visualisation
 - Exploratory Data Analysis
+- Business Analysis
 
 # Portfolio Projects
 
@@ -20,7 +21,7 @@ A data analysis project analyzing delivery performance data from Glovo India to 
 **Tools:** Excel, SQL(PostgreSQL), Tableau
 **Focus Areas:** Operations Analysis, KPI Tracking, Delivery Performance, Data Visualisation, Business Insights
 
-**Highlights:**
+**Key Contributions:**
 - Cleaned and prepared a dataset of 50,000 delivery records using SQL  
 - Created calculated metrics such as late delivery rate and delay duration  
 - Analyzed delivery performance across different areas to identify patterns  
@@ -49,7 +50,8 @@ This study primarily applies descriptive analysis to summarize participant respo
 **Tools:** Google Forms, Google Sheets, Tableau
 **Focus Areas:** Exploratory Data Analysis, Statistical Analysis, Explanatory Behavioural Analysis, Data Visualisation, Reserach Interpretation.
 
-**Highlights:**
+
+**Key Contributions:**
 - Examined how exercise frequency relates to perceived productivity
 - Analysef relationships between cognitive effects and productivity
 - Compared productivity outcomes across exercise types and intensity levels
@@ -75,7 +77,8 @@ A data analysis project, part of the Google Data Analytics course, exploring beh
 **Tools:** SQL(BigQuery), Tableau
 **Focus Areas:** Data Cleaning, Customer Behaviour Analysis, Data Visualisation, Business Strategy
 
-**Highlights:**
+
+**Key Contributions:**
 - Cleaned and transformed 12 months of ride data (over 5 million trips)  
 - Validated user types, ride types, durations, and geographic data  
 - Created interactive Tableau dashboards showing ride frequency, duration, bike types, and popular start stations  
@@ -91,3 +94,10 @@ A data analysis project, part of the Google Data Analytics course, exploring beh
 
 🔗 **View the full project:** [Cyclistic Bike Share Analysis](https://github.com/andrebergvind/Cyclistic-bike-share-analysis) 
 
+
+
+# Currently Developing
+- Python
+- Advanced SQL
+- Business Intelligence & Data Visualization
+- Data Storytelling & Business Analytics
