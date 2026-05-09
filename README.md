@@ -8,7 +8,7 @@ Business & Data Analyst passionate about transforming data into actionable busin
 - Tableau
 - Looker Studio
 - Data Cleaning & Transformation
-- Data Visualisation
+- Data Visualization
 - Exploratory Data Analysis
 - Business Analysis
 
