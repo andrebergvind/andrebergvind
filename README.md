@@ -17,8 +17,6 @@ Business & Data Analyst. Passionate about transforming data into actionable busi
 
 A data analysis project analyzing delivery performance data from Glovo India to identify key operational issues affecting delivery reliability and customer satisfaction.
 
-**Objective:** Identify key factors influencing delivery delays to support Glovo’s operational improvements and enhance customer satisfaction.
-
 **Highlights:**
 - Cleaned and prepared a dataset of 50,000 delivery records using SQL  
 - Created calculated metrics such as late delivery rate and delay duration  
