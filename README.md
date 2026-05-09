@@ -32,7 +32,7 @@ A data analysis project analyzing delivery performance data from Glovo India to 
 
 **Key Insights:**
 - ~49% of deliveries are late, indicating a major operational issue  
-- Late deliveries significantly reduce customer ratings: 4.5 → 3.58
+- Late deliveries significantly reduce customer ratings: 4.5 to 3.58
 - Some areas show consistently high late delivery rates 
 - Other areas experience less frequent but more severe delays
 
