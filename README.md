@@ -57,10 +57,10 @@ This study primarily applies descriptive analysis to summarize participant respo
 
 
 **Key Insights:**
-1. Higher exercise frequency is generally associated with higher reported productivity levels
-2. Cognitive effects such as increased energy and motivation show strong positive relationships with productivity
-3. Reduced stress following exercise also appears to contribute to improved productivity
-4. Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents
+- Higher exercise frequency is generally associated with higher reported productivity levels
+- Cognitive effects such as increased energy and motivation show strong positive relationships with productivity
+- Reduced stress following exercise also appears to contribute to improved productivity
+- Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents
 
 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
@@ -83,9 +83,9 @@ A data analysis project, part of the Google Data Analytics course, exploring beh
 
 
 **Key Insights:**
-1. Analysis shows casual riders tend to take longer trips compared to members and are more active on Saturdays and Sundays
-2. Ride origin data indicates casual users predominantly begin their trips in parks, tourist spots, and other recreational locations
-3. Members exhibit strong ride activity spikes during morning and evening commute times, whereas casual riders gradually increase activity until late afternoon
+- Analysis shows casual riders tend to take longer trips compared to members and are more active on Saturdays and Sundays
+- Ride origin data indicates casual users predominantly begin their trips in parks, tourist spots, and other recreational locations
+- Members exhibit strong ride activity spikes during morning and evening commute times, whereas casual riders gradually increase activity until late afternoon
 
 **Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
 
