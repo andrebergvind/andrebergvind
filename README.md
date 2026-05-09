@@ -1,10 +1,10 @@
 # André Bergvind - Data Analytics Portfolio
 
-Business & Data Analyst. Passionate about transforming data into actionable business insights and supporting data-driven decision-making through analytics, visualization, and problem-solving.
+Business & Data Analyst passionate about transforming data into actionable business insights and supporting data-driven decision-making through analytics, visualization, and problem-solving.
 
 ## Skills
 - Excel
-- SQL(PosgreSQL)
+- SQL (PosgreSQL)
 - Tableau
 - Looker Studio
 - Data Cleaning & Transformation
@@ -18,7 +18,7 @@ Business & Data Analyst. Passionate about transforming data into actionable busi
 
 A data analysis project analyzing delivery performance data from Glovo India to identify key operational issues affecting delivery reliability and customer satisfaction.
 
-**Tools:** Excel, SQL(PostgreSQL), Tableau
+**Tools:** Excel, SQL (PostgreSQL), Tableau
 **Focus Areas:** Operations Analysis, KPI Tracking, Delivery Performance, Data Visualisation, Business Insights
 
 **Key Contributions:**
@@ -35,9 +35,9 @@ A data analysis project analyzing delivery performance data from Glovo India to 
 - Some areas show consistently high late delivery rates 
 - Other areas experience less frequent but more severe delays
 
-**Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/GlovoE-CommerceAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+**Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/GlovoE-CommerceAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
-🔗 **View the full project:** [Glovo Deliver Performance Analysis](https://github.com/andrebergvind/glovo-delivery-performance-analysis.git)
+🔗 **Project Repository:** [Glovo Deliver Performance Analysis](https://github.com/andrebergvind/glovo-delivery-performance-analysis.git)
 
 
 
@@ -52,8 +52,8 @@ This study primarily applies descriptive analysis to summarize participant respo
 
 
 **Key Contributions:**
-- Examined how exercise frequency relates to perceived productivity
-- Analysef relationships between cognitive effects and productivity
+- Analyzed relationships between exercise frequency and perceived productivity
+- Analysed relationships between cognitive effects and productivity
 - Compared productivity outcomes across exercise types and intensity levels
 - Delivered recommendations based on findings
 
@@ -64,9 +64,9 @@ This study primarily applies descriptive analysis to summarize participant respo
 - Reduced stress following exercise also appears to contribute to improved productivity
 - Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents
 
-**Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+**Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
-🔗 **View the full project:** [Exercise and Student Cognitive Performance](https://github.com/andrebergvind/Capstone-Project-exercise-productivity-analysis.git)
+🔗 **Project Repository:** [Exercise and Student Cognitive Performance](https://github.com/andrebergvind/Capstone-Project-exercise-productivity-analysis.git)
 
 
 
@@ -74,7 +74,7 @@ This study primarily applies descriptive analysis to summarize participant respo
 
 A data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies.
 
-**Tools:** SQL(BigQuery), Tableau
+**Tools:** SQL (BigQuery), Tableau
 **Focus Areas:** Data Cleaning, Customer Behaviour Analysis, Data Visualisation, Business Strategy
 
 
@@ -90,9 +90,9 @@ A data analysis project, part of the Google Data Analytics course, exploring beh
 - Ride origin data indicates casual users predominantly begin their trips in parks, tourist spots, and other recreational locations
 - Members exhibit strong ride activity spikes during morning and evening commute times, whereas casual riders gradually increase activity until late afternoon
 
-**Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
+**Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
 
-🔗 **View the full project:** [Cyclistic Bike Share Analysis](https://github.com/andrebergvind/Cyclistic-bike-share-analysis) 
+🔗 **Project Repository:** [Cyclistic Bike Share Analysis](https://github.com/andrebergvind/Cyclistic-bike-share-analysis) 
 
 
 
