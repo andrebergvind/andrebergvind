@@ -18,6 +18,7 @@ Business & Data Analyst. Passionate about transforming data into actionable busi
 A data analysis project analyzing delivery performance data from Glovo India to identify key operational issues affecting delivery reliability and customer satisfaction.
 
 **Tools:** Excel, SQL(PostgreSQL), Tableau
+**Focus Areas:** Operations Analysis, KPI Tracking, Delivery Performance, Data Visualisation, Business Insights
 
 **Highlights:**
 - Cleaned and prepared a dataset of 50,000 delivery records using SQL  
@@ -26,8 +27,6 @@ A data analysis project analyzing delivery performance data from Glovo India to 
 - Evaluated the impact of delivery delays on customer ratings  
 - Built an interactive Tableau dashboard to visualize key insights  
 - Identified operational problem types, including high delay frequency and high delay severity  
-
-**Skills demonstrated:** Excel, SQL (PostgreSQL), Tableau, data cleaning, operation analysis, visualization, actionable recommendations
 
 **Key Insights:**
 - ~49% of deliveries are late, indicating a major operational issue  
@@ -48,6 +47,7 @@ A data analysis project for my dissertation, exploring the relationship between 
 This study primarily applies descriptive analysis to summarize participant responses, complemented by exploratory data analysis to identify patterns and relationships between exercise and perceived academic productivity.
 
 **Tools:** Google Forms, Google Sheets, Tableau
+**Focus Areas:** Exploratory Data Analysis, Statistical Analysis, Explanatory Behavioural Analysis, Data Visualisation, Reserach Interpretation.
 
 **Highlights:**
 - Examined how exercise frequency relates to perceived productivity
@@ -55,7 +55,6 @@ This study primarily applies descriptive analysis to summarize participant respo
 - Compared productivity outcomes across exercise types and intensity levels
 - Delivered recommendations based on findings
 
-**Skills demonstrated:** Google Sheets, Tableau, data cleaning, exploratory data analysis, statistical analysis, data interpretation, critical thinking, visualization
 
 **Key Insights:**
 1. Higher exercise frequency is generally associated with higher reported productivity levels
@@ -74,6 +73,7 @@ This study primarily applies descriptive analysis to summarize participant respo
 A data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies.
 
 **Tools:** SQL(BigQuery), Tableau
+**Focus Areas:** Data Cleaning, Customer Behaviour Analysis, Data Visualisation, Business Strategy
 
 **Highlights:**
 - Cleaned and transformed 12 months of ride data (over 5 million trips)  
@@ -81,7 +81,6 @@ A data analysis project, part of the Google Data Analytics course, exploring beh
 - Created interactive Tableau dashboards showing ride frequency, duration, bike types, and popular start stations  
 - Developed top three actionable recommendations for Cyclistic’s marketing team
 
-**Skills demonstrated:** SQL (BigQuery), Tableau, data cleaning, business analysis, visualization, actionable recommendations
 
 **Key Insights:**
 1. Analysis shows casual riders tend to take longer trips compared to members and are more active on Saturdays and Sundays
