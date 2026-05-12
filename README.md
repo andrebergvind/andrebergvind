@@ -76,7 +76,7 @@ This study primarily applies descriptive analysis to summarize participant respo
 
 A data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies.
 
-**Tools:** SQL (BigQuery), Tableau
+**Tools:** Excel, SQL (BigQuery), Tableau
 
 **Focus Areas:** Data Cleaning, Customer Behaviour Analysis, Data Visualisation, Business Strategy
 
