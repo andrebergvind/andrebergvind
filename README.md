@@ -44,7 +44,7 @@ An operations and logistics data analysis project analyzing delivery performance
 
 ## Exercise and Student Cognitive Performance
 
-A data analysis project for my dissertation, exploring the relationship between physical exercise and students' perceived cognitive performance and short-term academic productivity.
+A life science and human performance research study, conducted for my capstone dissertation project, exploring the relationship between physical exercise and students' perceived cognitive performance and short-term academic productivity.
 
 This study primarily applies descriptive analysis to summarize participant responses, complemented by exploratory data analysis to identify patterns and relationships between exercise and perceived academic productivity.
 
@@ -74,7 +74,7 @@ This study primarily applies descriptive analysis to summarize participant respo
 
 ## Cyclistic Bike Share Analysis
 
-A data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies.
+A marketing and consumer behaviour data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies.
 
 **Tools:** Excel, SQL (BigQuery), Tableau
 
