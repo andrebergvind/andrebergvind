@@ -16,7 +16,7 @@ Business & Data Analyst passionate about transforming data into actionable busin
 
 ## Glovo Delivery Performance Analysis
 
-A data analysis project analyzing delivery performance data from Glovo India to identify key operational issues affecting delivery reliability and customer satisfaction.
+An operations and logistics data analysis project analyzing delivery performance data from Glovo India to identify key operational issues affecting delivery reliability and customer satisfaction.
 
 **Tools:** Excel, SQL (PostgreSQL), Tableau
 
