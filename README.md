@@ -1,6 +1,7 @@
 # André Bergvind - Data Analytics Portfolio
 
-Business & Data Analyst passionate about transforming data into actionable business insights and supporting data-driven decision-making through analytics, visualization, and problem-solving.
+Business & Data Analyst passionate about transforming data into actionable business insights. 
+
 
 ## Skills
 - Excel
@@ -44,9 +45,10 @@ An operations and logistics data analysis project analyzing delivery performance
 
 ## Exercise and Student Cognitive Performance
 
-A life science and human performance research study, conducted for my capstone dissertation project, exploring the relationship between physical exercise and students' perceived cognitive performance and short-term academic productivity.
+A life science and human performance research study conducted for my capstone dissertation project.
+The study explores the relationship between physical exercise, perceived cognitive performance and short-term academic productivity among university students aged 18-30 .
 
-This study primarily applies descriptive analysis to summarize participant responses, complemented by exploratory data analysis to identify patterns and relationships between exercise and perceived academic productivity.
+Primarily a descriptive analysis is performed to summarize participant responses, which is complemented by an exploratory data analysis to identify patterns and relationships between exercise behaviour and cognitive outcome.
 
 **Tools:** Google Forms, Google Sheets, Tableau
 
