@@ -32,10 +32,9 @@ An operations and logistics data analysis project analyzing delivery performance
 - Identified operational problem types, including high delay frequency and high delay severity  
 
 **Key Insights:**
-- ~49% of deliveries are late, indicating a major operational issue  
-- Late deliveries significantly reduce customer ratings: 4.5 to 3.58
-- Some areas show consistently high late delivery rates 
-- Other areas experience less frequent but more severe delays
+- Approximately 49% of orders are delivered later than promised.
+- Late deliveries inevitably affect customer ratings negatively
+- While late deliveries overall represents a problem for Glovo, the analysis reveals that some areas experience them more frequently, while others suffer from more severe delays.
 
 **Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/GlovoE-CommerceAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
