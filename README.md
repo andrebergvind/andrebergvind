@@ -70,7 +70,8 @@ A marketing and consumer behaviour data analysis project, part of the Google Dat
 
 ## Exercise and Student Cognitive Performance
 
-A life science and human performance research study.
+A life science and human performance research study conducted at University.
+
 The study explores the relationship between physical exercise, perceived cognitive performance and short-term academic productivity among university students aged 18-30 .
 
 Primarily a descriptive analysis is performed to summarize participant responses, which is complemented by an exploratory data analysis to identify patterns and relationships between exercise behaviour and cognitive outcome.
