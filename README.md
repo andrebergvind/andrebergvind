@@ -15,6 +15,31 @@ Business & Data Analyst passionate about transforming data into actionable busin
 
 # Portfolio Projects
 
+## Cyclistic Bike Share Analysis
+
+A marketing and consumer behaviour data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies.
+
+**Tools:** Excel, SQL (BigQuery), Tableau
+
+**Focus Areas:** Data Cleaning, Customer Behaviour Analysis, Data Visualisation, Business Strategy
+
+
+**Key Contributions:**
+- Cleaned and transformed 12 months of ride data (over 5 million trips)  
+- Validated user types, ride types, durations, and geographic data  
+- Created interactive Tableau dashboards showing ride frequency, duration, bike types, and popular start stations  
+- Developed top three actionable recommendations for Cyclistic’s marketing team
+
+
+**Key Insights:**
+- Analysis shows casual riders tend to take longer trips compared to members and are more active on Saturdays and Sundays
+- Ride origin data indicates casual users predominantly begin their trips in parks, tourist spots, and other recreational locations
+- Members exhibit strong ride activity spikes during morning and evening commute times, whereas casual riders gradually increase activity until late afternoon
+
+**Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
+
+🔗 **Project Repository:** [Cyclistic Bike Share Analysis](https://github.com/andrebergvind/Cyclistic-bike-share-analysis) 
+
 ## Glovo Delivery Performance Analysis
 
 An operations and logistics data analysis project analyzing delivery performance data from Glovo India to identify key operational issues affecting delivery reliability and customer satisfaction.
@@ -40,32 +65,6 @@ An operations and logistics data analysis project analyzing delivery performance
 
 🔗 **Project Repository:** [Glovo Deliver Performance Analysis](https://github.com/andrebergvind/glovo-delivery-performance-analysis.git)
 
-
-
-## Cyclistic Bike Share Analysis
-
-A marketing and consumer behaviour data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies.
-
-**Tools:** Excel, SQL (BigQuery), Tableau
-
-**Focus Areas:** Data Cleaning, Customer Behaviour Analysis, Data Visualisation, Business Strategy
-
-
-**Key Contributions:**
-- Cleaned and transformed 12 months of ride data (over 5 million trips)  
-- Validated user types, ride types, durations, and geographic data  
-- Created interactive Tableau dashboards showing ride frequency, duration, bike types, and popular start stations  
-- Developed top three actionable recommendations for Cyclistic’s marketing team
-
-
-**Key Insights:**
-- Analysis shows casual riders tend to take longer trips compared to members and are more active on Saturdays and Sundays
-- Ride origin data indicates casual users predominantly begin their trips in parks, tourist spots, and other recreational locations
-- Members exhibit strong ride activity spikes during morning and evening commute times, whereas casual riders gradually increase activity until late afternoon
-
-**Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
-
-🔗 **Project Repository:** [Cyclistic Bike Share Analysis](https://github.com/andrebergvind/Cyclistic-bike-share-analysis) 
 
 
 ## Exercise and Student Cognitive Performance
