@@ -42,9 +42,35 @@ An operations and logistics data analysis project analyzing delivery performance
 
 
 
+## Cyclistic Bike Share Analysis
+
+A marketing and consumer behaviour data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies.
+
+**Tools:** Excel, SQL (BigQuery), Tableau
+
+**Focus Areas:** Data Cleaning, Customer Behaviour Analysis, Data Visualisation, Business Strategy
+
+
+**Key Contributions:**
+- Cleaned and transformed 12 months of ride data (over 5 million trips)  
+- Validated user types, ride types, durations, and geographic data  
+- Created interactive Tableau dashboards showing ride frequency, duration, bike types, and popular start stations  
+- Developed top three actionable recommendations for Cyclistic’s marketing team
+
+
+**Key Insights:**
+- Analysis shows casual riders tend to take longer trips compared to members and are more active on Saturdays and Sundays
+- Ride origin data indicates casual users predominantly begin their trips in parks, tourist spots, and other recreational locations
+- Members exhibit strong ride activity spikes during morning and evening commute times, whereas casual riders gradually increase activity until late afternoon
+
+**Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
+
+🔗 **Project Repository:** [Cyclistic Bike Share Analysis](https://github.com/andrebergvind/Cyclistic-bike-share-analysis) 
+
+
 ## Exercise and Student Cognitive Performance
 
-A life science and human performance research study conducted for my capstone dissertation project.
+A life science and human performance research study.
 The study explores the relationship between physical exercise, perceived cognitive performance and short-term academic productivity among university students aged 18-30 .
 
 Primarily a descriptive analysis is performed to summarize participant responses, which is complemented by an exploratory data analysis to identify patterns and relationships between exercise behaviour and cognitive outcome.
@@ -72,31 +98,6 @@ Primarily a descriptive analysis is performed to summarize participant responses
 🔗 **Project Repository:** [Exercise and Student Cognitive Performance](https://github.com/andrebergvind/Capstone-Project-exercise-productivity-analysis.git)
 
 
-
-## Cyclistic Bike Share Analysis
-
-A marketing and consumer behaviour data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies.
-
-**Tools:** Excel, SQL (BigQuery), Tableau
-
-**Focus Areas:** Data Cleaning, Customer Behaviour Analysis, Data Visualisation, Business Strategy
-
-
-**Key Contributions:**
-- Cleaned and transformed 12 months of ride data (over 5 million trips)  
-- Validated user types, ride types, durations, and geographic data  
-- Created interactive Tableau dashboards showing ride frequency, duration, bike types, and popular start stations  
-- Developed top three actionable recommendations for Cyclistic’s marketing team
-
-
-**Key Insights:**
-- Analysis shows casual riders tend to take longer trips compared to members and are more active on Saturdays and Sundays
-- Ride origin data indicates casual users predominantly begin their trips in parks, tourist spots, and other recreational locations
-- Members exhibit strong ride activity spikes during morning and evening commute times, whereas casual riders gradually increase activity until late afternoon
-
-**Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
-
-🔗 **Project Repository:** [Cyclistic Bike Share Analysis](https://github.com/andrebergvind/Cyclistic-bike-share-analysis) 
 
 
 
