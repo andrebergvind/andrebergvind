@@ -54,8 +54,14 @@ The project involves data cleaning and transformation, exploratory data analysis
 **Tools Used:** Excel, SQL (PostgreSQL), Tableau
 
 
+
+
 **Key Insights:**
 
+
+**Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/TechCompaniesFinancialAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+
+🔗 **Project Repository:** [https://github.com/andrebergvind/big-tech-financial-analysis.git)
 
 
 ## Exercise and Student Cognitive Performance
