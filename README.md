@@ -8,27 +8,15 @@ Business & Data Analyst passionate about transforming data into actionable busin
 - SQL (PosgreSQL)
 - Tableau
 - Looker Studio
-- Data Cleaning & Transformation
-- Data Visualization
-- Exploratory Data Analysis
-- Business Analysis
 
 # Portfolio Projects
 
 ## Cyclistic Bike Share Analysis
 
-A marketing and consumer behaviour data analysis project, part of the Google Data Analytics course, exploring behavioral differences between casual riders and members, with insights to support customer conversion strategies.
+A marketing and consumer behaviour data analysis project, part of the Google Data Analytics course
+The project involves data cleaning and transformation, exploratory behavioural analysis, and key insights along with recommendations to support customer conversion strategies.
 
-**Tools:** Excel, SQL (BigQuery), Tableau
-
-**Focus Areas:** Data Cleaning, Customer Behaviour Analysis, Data Visualisation, Business Strategy
-
-
-**Key Contributions:**
-- Cleaned and transformed 12 months of ride data (over 5 million trips)  
-- Validated user types, ride types, durations, and geographic data  
-- Created interactive Tableau dashboards showing ride frequency, duration, bike types, and popular start stations  
-- Developed top three actionable recommendations for Cyclistic’s marketing team
+**Tools Used:** Excel, SQL (BigQuery), Tableau
 
 
 **Key Insights:**
@@ -42,19 +30,11 @@ A marketing and consumer behaviour data analysis project, part of the Google Dat
 
 ## Glovo Delivery Performance Analysis
 
-An operations and logistics data analysis project analyzing delivery performance data from Glovo India to identify key operational issues affecting delivery reliability and customer satisfaction.
+An operations and logistics data analysis project analysing delivery performance data from Glovo India.
+The project involves data cleaning and transformation, exploratory data analysis, and key insights along with recommendations to improve delivery reliability and customer ratings.
 
-**Tools:** Excel, SQL (PostgreSQL), Tableau
+**Tools Used:** Excel, SQL (PostgreSQL), Tableau
 
-**Focus Areas:** Operations Analysis, KPI Tracking, Delivery Performance, Data Visualisation, Business Insights
-
-**Key Contributions:**
-- Cleaned and prepared a dataset of 50,000 delivery records using SQL  
-- Created calculated metrics such as late delivery rate and delay duration  
-- Analyzed delivery performance across different areas to identify patterns  
-- Evaluated the impact of delivery delays on customer ratings  
-- Built an interactive Tableau dashboard to visualize key insights  
-- Identified operational problem types, including high delay frequency and high delay severity  
 
 **Key Insights:**
 - Approximately 49% of orders are delivered later than promised.
@@ -66,25 +46,23 @@ An operations and logistics data analysis project analyzing delivery performance
 🔗 **Project Repository:** [Glovo Deliver Performance Analysis](https://github.com/andrebergvind/glovo-delivery-performance-analysis.git)
 
 
+## Big Tech Financial Analysis
+
+
+**Tools Used:** Excel, SQL (PostgreSQL), Tableau
+
+
+**Key Insights:**
+
+
 
 ## Exercise and Student Cognitive Performance
 
 A life science and human performance research study conducted at University.
-
-The study explores the relationship between physical exercise, perceived cognitive performance and short-term academic productivity among university students aged 18-30 .
-
-Primarily a descriptive analysis is performed to summarize participant responses, which is complemented by an exploratory data analysis to identify patterns and relationships between exercise behaviour and cognitive outcome.
-
-**Tools:** Google Forms, Google Sheets, Tableau
-
-**Focus Areas:** Exploratory Data Analysis, Statistical Analysis, Explanatory Behavioural Analysis, Data Visualisation, Reserach Interpretation.
+The study involves a primary research on university students aged 18 to 30 along with exploratory and explanatory analyses concerning perceived cognitive functioning and short-term academic productivity following exercise.
 
 
-**Key Contributions:**
-- Analyzed relationships between exercise frequency and perceived productivity
-- Analysed relationships between cognitive effects and productivity
-- Compared productivity outcomes across exercise types and intensity levels
-- Delivered recommendations based on findings
+**Tools Used:** Google Forms, Google Sheets, Tableau
 
 
 **Key Insights:**
