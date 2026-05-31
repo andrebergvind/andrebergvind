@@ -39,7 +39,7 @@ The project involves data cleaning and transformation, exploratory data analysis
 **Key Insights:**
 - Approximately 49% of orders are delivered later than promised.
 - Late deliveries inevitably affect customer ratings negatively
-- While late deliveries represent an overall problem for Glovo, analysis reveals that some areas experience them more frequently, while others suffer from more severe delays.
+- While late deliveries represent an overall problem for Glovo, analysis reveals that some areas experience them more frequently, while others suffer from more severe delays
 
 **View on Tableau Public:** [Glovo Dashboard](https://public.tableau.com/views/GlovoE-CommerceAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
@@ -54,9 +54,14 @@ The project involves data cleaning and transformation, exploratory data analysis
 **Tools Used:** Excel, SQL (PostgreSQL), Tableau
 
 
-
-
 **Key Insights:**
+
+
+- Microsoft demonstrates the strongest overall investment profile
+- Apple remains the largest and most profitable company
+- NVIDIA shows the highest growth potential.
+- Google maintained a financially conservative and stable profile
+- Intel significantly underperformed competitors
 
 
 **View on Tableau Public:** [Big Tech Dashboard](https://public.tableau.com/views/TechCompaniesFinancialAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
