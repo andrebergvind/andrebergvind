@@ -43,7 +43,7 @@ The project involves data cleaning and transformation, exploratory data analysis
 
 **View on Tableau Public:** [Glovo Dashboard](https://public.tableau.com/views/GlovoE-CommerceAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
-🔗 **Project Repository:** [Glovo Deliver Performance Analysis](https://github.com/andrebergvind/glovo-delivery-performance-analysis.git)
+🔗 **Project Repository:** [Glovo Delivery Performance Analysis](https://github.com/andrebergvind/glovo-delivery-performance-analysis.git)
 
 
 ## Big Tech Financial Analysis
@@ -65,7 +65,7 @@ The project involves data cleaning and transformation, exploratory data analysis
 
 
 
-## Exercise and Student Cognitive Performance
+## Exercise & Student Cognitive Performance Analysis
 
 A life science and human performance research study conducted at University.
 The study involves a primary research on university students aged 18 to 30 along with exploratory and explanatory analyses concerning perceived cognitive functioning and short-term academic productivity following exercise.
@@ -82,7 +82,7 @@ The study involves a primary research on university students aged 18 to 30 along
 
 **View on Tableau Public:** [Exercise & Student Cognitive Performance Dashboard](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
-🔗 **Project Repository:** [Exercise and Student Cognitive Performance](https://github.com/andrebergvind/Capstone-Project-exercise-productivity-analysis.git)
+🔗 **Project Repository:** [Exercise & Student Cognitive Performance Analysis](https://github.com/andrebergvind/Capstone-Project-exercise-productivity-analysis.git)
 
 
 
