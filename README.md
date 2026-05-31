@@ -48,6 +48,8 @@ The project involves data cleaning and transformation, exploratory data analysis
 
 ## Big Tech Financial Analysis
 
+A financial analysis of five major tech companies and their performance between 2009 and 2022.
+The project involves data cleaning and transformation, exploratory data analysis, and key insights along with recommendations to support investor decision making.
 
 **Tools Used:** Excel, SQL (PostgreSQL), Tableau
 
