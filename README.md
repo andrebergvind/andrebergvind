@@ -24,7 +24,7 @@ The project involves data cleaning and transformation, exploratory behavioural a
 - Ride origin data indicates casual users predominantly begin their trips in parks, tourist spots, and other recreational locations
 - Members exhibit strong ride activity spikes during morning and evening commute times, whereas casual riders gradually increase activity until late afternoon
 
-**Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
+**View on Tableau Public:** [Cyclistic Dashboard](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
 
 🔗 **Project Repository:** [Cyclistic Bike Share Analysis](https://github.com/andrebergvind/Cyclistic-bike-share-analysis) 
 
@@ -41,7 +41,7 @@ The project involves data cleaning and transformation, exploratory data analysis
 - Late deliveries inevitably affect customer ratings negatively
 - While late deliveries overall represents a problem for Glovo, the analysis reveals that some areas experience them more frequently, while others suffer from more severe delays.
 
-**Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/GlovoE-CommerceAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+**View on Tableau Public:** [Glovo Dashboard](https://public.tableau.com/views/GlovoE-CommerceAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 🔗 **Project Repository:** [Glovo Deliver Performance Analysis](https://github.com/andrebergvind/glovo-delivery-performance-analysis.git)
 
@@ -59,9 +59,9 @@ The project involves data cleaning and transformation, exploratory data analysis
 **Key Insights:**
 
 
-**Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/TechCompaniesFinancialAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+**View on Tableau Public:** [Big Tech Dashboard](https://public.tableau.com/views/TechCompaniesFinancialAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
-🔗 **Project Repository:** [https://github.com/andrebergvind/big-tech-financial-analysis.git)
+🔗 **Project Repository:** [Big Tech Financial Analysis](https://github.com/andrebergvind/big-tech-financial-analysis.git)
 
 
 
@@ -80,7 +80,7 @@ The study involves a primary research on university students aged 18 to 30 along
 - Reduced stress following exercise also appears to contribute to improved productivity
 - Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents
 
-**Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+**View on Tableau Public:** [Exercise & Student Cognitive Performance Dashboard](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 🔗 **Project Repository:** [Exercise and Student Cognitive Performance](https://github.com/andrebergvind/Capstone-Project-exercise-productivity-analysis.git)
 
