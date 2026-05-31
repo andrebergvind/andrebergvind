@@ -5,10 +5,9 @@
 Business graduate and Google Data Analytics Certificate holder with experience in data cleaning, data transformation, and exploratory data analysis. Detail-oriented and analytical, with a strong interest in solving business challenges through structured thinking and data informed decision making.
 
 
-
-## Skills
+## Analytics Toolkit
 - Excel
-- SQL (PosgreSQL)
+- SQL (PostgreSQL)
 - Tableau
 - Looker Studio
 
