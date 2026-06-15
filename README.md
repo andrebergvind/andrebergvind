@@ -15,7 +15,7 @@ Business graduate and Google Data Analytics Certificate holder with experience i
 
 ## Cyclistic Bike Share Analysis
 
-A marketing and consumer behaviour data analysis project, part of the Google Data Analytics course
+A marketing and consumer behaviour data analysis project, part of the Google Data Analytics course.
 The project involves data cleaning and transformation, exploratory behavioural analysis, and key insights along with recommendations to support customer conversion strategies.
 
 **Tools Used:** Excel, SQL (BigQuery), Tableau
