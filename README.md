@@ -74,7 +74,7 @@ The project involves data cleaning and transformation, exploratory data analysis
 
 ## Exercise & Student Cognitive Performance Analysis
 
-A life science and human performance research study conducted at University.
+A life science and human performance research study conducted at university.
 The study involves a primary research on university students aged 18 to 30 along with exploratory and explanatory analyses concerning perceived cognitive functioning and short-term academic productivity following exercise.
 
 
