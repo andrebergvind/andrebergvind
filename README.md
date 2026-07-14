@@ -1,6 +1,6 @@
 # André Bergvind - Analytics Portfolio
 
-**Business & Strategy Analyst passionate about transforming data into actionable business insights**
+**Aspiring Data & Business Analyst focused on transforming data into actionable business insights**
 
 Business graduate and Google Data Analytics Certificate holder with experience in data cleaning, data transformation, and exploratory data analysis. Detail-oriented and analytical, with a strong interest in solving business challenges through structured thinking and data informed decision making.
 
@@ -9,22 +9,22 @@ Business graduate and Google Data Analytics Certificate holder with experience i
 - Excel
 - SQL (PostgreSQL)
 - Tableau
-- Looker Studio
+- Power BI
 
 # Portfolio Projects
 
 ## Cyclistic Bike Share Analysis
 
-A marketing and consumer behaviour data analysis project, part of the Google Data Analytics course.
+A consumer behaviour data analysis project, part of the Google Data Analytics course.
 The project involves data cleaning and transformation, exploratory behavioural analysis, and key insights along with recommendations to support customer conversion strategies.
 
 **Tools Used:** Excel, SQL (BigQuery), Tableau
 
 
 **Key Insights:**
-- Analysis shows casual riders tend to take longer trips compared to members and are more active on Saturdays and Sundays
-- Ride origin data indicates casual users predominantly begin their trips in parks, tourist spots, and other recreational locations
-- Members exhibit strong ride activity spikes during morning and evening commute times, whereas casual riders gradually increase activity until late afternoon
+- Analysis shows a substantial difference in average ride times, with casual riders averaging nearly double the duration of annual members.
+- Ride origin data suggests that casual users predominantly begin their trips in or around parks, tourist spots, and other recreational locations.
+- Members exhibit strong ride activity spikes during morning and evening commute times, whereas casual riders gradually increase activity until late afternoon, indicating that members primarily use the service for commuting, while casual riders utilise it for leisure and recreation.
 
 **View on Tableau Public:** [Cyclistic Dashboard](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
 
@@ -32,7 +32,7 @@ The project involves data cleaning and transformation, exploratory behavioural a
 
 ## Glovo Delivery Performance Analysis
 
-An operations and logistics data analysis project analysing delivery performance data from Glovo India.
+An operations and logistics data analysis project analysing delivery performance data from Glovo.
 The project involves data cleaning and transformation, exploratory data analysis, and key insights along with recommendations to improve delivery reliability and customer ratings.
 
 **Tools Used:** Excel, SQL (PostgreSQL), Tableau
@@ -40,8 +40,8 @@ The project involves data cleaning and transformation, exploratory data analysis
 
 **Key Insights:**
 - Approximately 49% of orders are delivered later than promised.
-- Late deliveries inevitably affect customer ratings negatively
-- While late deliveries represent an overall problem for Glovo, analysis reveals that some areas experience them more frequently, while others suffer from more severe delays
+- Late deliveries inevitably affect customer ratings negatively.
+- While late deliveries represent an overall problem for Glovo, analysis reveals that some areas experience them more frequently, while others suffer from more severe delays.
 
 **View on Tableau Public:** [Glovo Dashboard](https://public.tableau.com/views/GlovoE-CommerceAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
@@ -56,14 +56,12 @@ The project involves data cleaning and transformation, exploratory data analysis
 **Tools Used:** Excel, SQL (PostgreSQL), Tableau
 
 
-**Key Insights:**
-
-
-- Microsoft demonstrates the strongest overall investment profile
-- Apple remains the largest and most profitable company
-- NVIDIA shows the highest growth potential.
-- Google maintained a financially conservative and stable profile
-- Intel significantly underperformed competitors
+**Key Insights:** 
+- Microsoft demonstrates the strongest overall investment profile.
+- Apple remains the largest and most profitable company.
+- NVIDIA shows the highest current growth potential.
+- Google maintains a financially conservative and stable profile.
+- Intel significantly underperforms competitors.
 
 
 **View on Tableau Public:** [Big Tech Dashboard](https://public.tableau.com/views/TechCompaniesFinancialAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
@@ -82,10 +80,10 @@ The study involves a primary research on university students aged 18 to 30 along
 
 
 **Key Insights:**
-- Higher exercise frequency is generally associated with higher reported productivity levels
-- Cognitive effects such as increased energy and motivation show strong positive relationships with productivity
-- Reduced stress following exercise also appears to contribute to improved productivity
-- Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents
+- Higher exercise frequency is generally associated with higher reported productivity levels.
+- Reduced stress and improved overall mood appear to be the two cognitive changes most positively affected by physical activity.
+- Increases in cognitive outcomes related to energy and motivation show a strong positive correlation with productivity.
+- Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents.
 
 **View on Tableau Public:** [Exercise & Student Cognitive Performance Dashboard](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
