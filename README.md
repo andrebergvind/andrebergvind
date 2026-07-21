@@ -87,13 +87,3 @@ The study involves a primary research on university students aged 18 to 30 along
 **View on Tableau Public:** [Exercise & Student Cognitive Performance Dashboard](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 🔗 **Project Repository:** [Exercise & Student Cognitive Performance Analysis](https://github.com/andrebergvind/Capstone-Project-exercise-productivity-analysis.git)
-
-
-
-
-
-# Currently Developing
-- Python
-- Advanced SQL
-- Business Intelligence & Data Visualization
-- Data Storytelling & Business Analytics
