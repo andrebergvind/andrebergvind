@@ -72,18 +72,19 @@ The project involves data cleaning and transformation, exploratory data analysis
 
 ## Exercise & Student Cognitive Performance Analysis
 
-A life science and human performance research study conducted at university.
-The study involves a primary research on university students aged 18 to 30 along with exploratory and explanatory analyses concerning perceived cognitive functioning and short-term academic productivity following exercise.
+A research project exploring the relationship between exercise, cognitive functioning, and short-term academic productivity among university students.
+
+The study involves a primary research on university students aged 18 to 30 along with exploratory and explanatory analyses.
 
 
 **Tools Used:** Google Forms, Google Sheets, Tableau
 
 
 **Key Insights:**
-- Higher exercise frequency is generally associated with higher reported productivity levels.
-- Reduced stress and improved overall mood appear to be the two cognitive changes most positively affected by physical activity.
-- Increases in cognitive outcomes related to energy and motivation show a strong positive correlation with productivity.
-- Certain exercise types appear to be associated with higher productivity outcomes, although results vary across respondents.
+- Exercise is used as a tool for stress relief and mental recovery.
+- The perceived quality of exercise sessions influences academic motivation and productivity.
+- Mental energy gained from exercise is perceived to enhance short-term productivity.
+- The timing of exercise influences perceived cognitive and productivity-related benefits.
 
 **View on Tableau Public:** [Exercise & Student Cognitive Performance Dashboard](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
