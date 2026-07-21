@@ -1,7 +1,5 @@
 # André Bergvind - Analytics Portfolio
 
-**Aspiring Data & Business Analyst focused on transforming data into actionable business insights**
-
 Business graduate and Google Data Analytics Certificate holder with experience in data cleaning, data transformation, and exploratory data analysis. Detail-oriented and analytical, with a strong interest in solving business challenges through structured thinking and data informed decision making.
 
 
