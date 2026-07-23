@@ -20,7 +20,7 @@ The project involves data cleaning and transformation, exploratory behavioural a
 
 
 **Key Insights:**
-- Analysis shows a substantial difference in average ride times, with casual riders averaging nearly double the duration of annual members.
+- There is a substantial difference in average ride times, with casual riders averaging nearly double the duration of annual members.
 - Ride origin data suggests that casual users predominantly begin their trips in or around parks, tourist spots, and other recreational locations.
 - Members exhibit strong ride activity spikes during morning and evening commute times, whereas casual riders gradually increase activity until late afternoon, indicating that members primarily use the service for commuting, while casual riders utilise it for leisure and recreation.
 
@@ -71,7 +71,6 @@ The project involves data cleaning and transformation, exploratory data analysis
 ## Exercise & Student Cognitive Performance Analysis
 
 A research project exploring the relationship between exercise, cognitive functioning, and short-term academic productivity among university students.
-
 The study involves a primary research on university students aged 18 to 30 along with exploratory and explanatory analyses.
 
 
