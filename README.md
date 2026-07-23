@@ -40,6 +40,7 @@ The project involves data cleaning and transformation, exploratory data analysis
 - Approximately 49% of orders are delivered later than promised.
 - Late deliveries inevitably affect customer ratings negatively.
 - While late deliveries represent an overall problem for Glovo, analysis reveals that some areas experience them more frequently, while others suffer from more severe delays.
+- The dataset does not provide sufficient information to identify the key factors driving late deliveries in these areas.
 
 **View on Tableau Public:** [Glovo Dashboard](https://public.tableau.com/views/GlovoE-CommerceAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
