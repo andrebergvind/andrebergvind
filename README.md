@@ -25,7 +25,7 @@ Turning business data into actionable insights through analytics, visualisation,
 ### A financial analysis of five major tech companies and their performance between 2009 and 2022
 
 **Objective:**
-Provide insights and upport investment decision-making.
+Provide insights and support investment decision-making.
 
 **Skills Demonstrated:**
 Data Cleaning • Financial Analysis • Data Visualisation • Financial Decision-Making
