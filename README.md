@@ -1,22 +1,32 @@
-# André Bergvind - Analytics Portfolio
+# André Bergvind - Portfolio
 
-Business graduate and Google Data Analytics Certificate holder with experience in data cleaning, data transformation, and exploratory data analysis. Detail-oriented and analytical, with a strong interest in solving business challenges through structured thinking and data informed decision making.
+👋 Hi, I'm André Bergvind
 
+Business Graduate | Google Data Analytics Certified
 
-## Analytics Toolkit
-- Excel
-- SQL (PostgreSQL)
-- Tableau
-- Power BI
+Turning business data into actionable insights through analytics, visualisation, and structured problem-solving.
+
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboarding-orange)
+![Power BI](https://img.shields.io/badge/Power_BI-Visualization-yellow)
 
 # Portfolio Projects
 
-## Cyclistic Bike Share Analysis
+## 🚲 Cyclistic Bike Share Analysis
+
+
 
 A consumer behaviour data analysis project, part of the Google Data Analytics course.
-The project involves data cleaning and transformation, exploratory behavioural analysis, and key insights along with recommendations to support customer conversion strategies.
 
-**Tools Used:** Excel, SQL (BigQuery), Tableau
+**Business Goal:**
+Convert casual riders into annual members.
+
+**Tools:** Excel, SQL (BigQuery), Tableau
+
+🔗 [Tableau Dashboard](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
+🔗 [Project Repository](https://github.com/andrebergvind/Cyclistic-bike-share-analysis) 
+
 
 
 **Key Insights:**
@@ -24,9 +34,7 @@ The project involves data cleaning and transformation, exploratory behavioural a
 - Ride origin data suggests that casual users predominantly begin their trips in or around parks, tourist spots, and other recreational locations.
 - Members exhibit strong ride activity spikes during morning and evening commute times, whereas casual riders gradually increase activity until late afternoon, indicating that members primarily use the service for commuting, while casual riders utilise it for leisure and recreation.
 
-**View on Tableau Public:** [Cyclistic Dashboard](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  
 
-🔗 **Project Repository:** [Cyclistic Bike Share Analysis](https://github.com/andrebergvind/Cyclistic-bike-share-analysis) 
 
 ## Glovo Delivery Performance Analysis
 
@@ -87,3 +95,11 @@ The study involves a primary research on university students aged 18 to 30 along
 **View on Tableau Public:** [Exercise & Student Cognitive Performance Dashboard](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 🔗 **Project Repository:** [Exercise & Student Cognitive Performance Analysis](https://github.com/andrebergvind/Capstone-Project-exercise-productivity-analysis.git)
+
+
+## 📫 Contact
+
+LinkedIn: ...
+Tableau Public: ...
+GitHub: ...
+Email: ...
