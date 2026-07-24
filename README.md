@@ -2,7 +2,7 @@
 
 👋 Hi, I'm André Bergvind
 
-Business Graduate | Google Data Analytics Certified
+Business Graduate | Google Data Analytics Certificate Holder
 
 Turning business data into actionable insights through analytics, visualisation, and structured problem-solving.
 
@@ -13,13 +13,7 @@ Turning business data into actionable insights through analytics, visualisation,
 
 ## Featured Projects
 
-📈 Financial Analysis  
-
-🚚 Operations Analysis
-
-🚲 Consumer Behaviour Analysis
-
-🧠 Cognitive Performance Analysis
+📈 Financial Analysis • 🚚 Operations Analysis • 🚲 Consumer Behaviour Analysis • 🧠 Cognitive Performance Analysis
 
 ---
 
@@ -28,13 +22,13 @@ Turning business data into actionable insights through analytics, visualisation,
   <img src="dashboards/Financial_Analysis_Dashboard.png" width="600">
 
 
-A financial analysis of five major tech companies and their performance between 2009 and 2022.
+### A financial analysis of five major tech companies and their performance between 2009 and 2022
 
 **Objective:**
-Compare the financial performance of leading technology companies between 2009 and 2022.
+Provide insights and upport investment decision-making.
 
 **Skills Demonstrated:**
-Data Cleaning • Financial Analysis • Data Visualisation • Investor Insights
+Data Cleaning • Financial Analysis • Data Visualisation • Financial Decision-Making
 
 🔗 [Tableau Dashboard](https://public.tableau.com/views/TechCompaniesFinancialAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 🔗 [Project Repository](https://github.com/andrebergvind/big-tech-financial-analysis.git) 
 
@@ -43,14 +37,14 @@ Data Cleaning • Financial Analysis • Data Visualisation • Investor Insight
   <img src="dashboards/Glovo Dashboard.png" width="600">
 
 
-An operations and logistics data analysis project analysing delivery performance data from Glovo.
+### An operations and logistics data analysis project analysing delivery performance data from Glovo
 
 
 **Business Goal:**
-Analyse delivery performance data to identify patterns associated with late deliveries and support operational improvements.
+Identify patterns associated with late deliveries and support operational improvements.
 
-***Skills Demonstrated:**
-Data Cleaning • SQL • Operational Analytics • Data Visualisation
+**Skills Demonstrated:**
+Data Cleaning • SQL • Operational Analysis • Data Visualisation
 
 🔗 [Tableau Dashboard](https://public.tableau.com/views/GlovoE-CommerceAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 🔗 [Project Repository](https://github.com/andrebergvind/glovo-delivery-performance-analysis.git)
@@ -61,7 +55,7 @@ Data Cleaning • SQL • Operational Analytics • Data Visualisation
 <img src="dashboards/User_Behaviour_Overview.png" width="600">
 
 
-A consumer behaviour data analysis project, part of the Google Data Analytics course.
+### A consumer behaviour data analysis project, part of the Google Data Analytics course
 
 **Business Goal:**
 Convert casual riders into annual members.
@@ -76,9 +70,11 @@ Data Cleaning • SQL • Data Visualisation • Behavioural Analysis
   <img src="dashboards/dashboard_cognitive_effects.png" width="600">
 
 
-A research project exploring the relationship between exercise, cognitive functioning, and short-term academic productivity among university students.
+### A research project exploring the relationship between exercise, cognitive functioning, and short-term academic productivity among university students
 
 **Research Goal:**
+Contribute to a deeper understanding of the relationship between physical activity and cognitive outcomes, while also providing practical recommendations that may help students optimise their exercise routines to enhance productivity.
+
 
 **Skills Demonstrated:**
 Survey Research • Data Cleaning • Data Visualisation • Quantitative Analysis • Qualitative Analysis 
