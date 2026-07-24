@@ -15,7 +15,8 @@ Turning business data into actionable insights through analytics, visualisation,
 
 ## 🚲 Cyclistic Bike Share Analysis
 
-
+<img src="dashboards/User_Behaviour_Overview.png" width="500">
+</p>
 
 A consumer behaviour data analysis project, part of the Google Data Analytics course.
 
@@ -37,9 +38,11 @@ Convert casual riders into annual members.
 
 
 ## Glovo Delivery Performance Analysis
+  <img src="dashboards/Glovo Dashboard.png" width="500">
+</p>
 
 An operations and logistics data analysis project analysing delivery performance data from Glovo.
-The project involves data cleaning and transformation, exploratory data analysis, and key insights along with recommendations to improve delivery reliability and customer ratings.
+
 
 **Tools Used:** Excel, SQL (PostgreSQL), Tableau
 
@@ -56,9 +59,10 @@ The project involves data cleaning and transformation, exploratory data analysis
 
 
 ## Big Tech Financial Analysis
+  <img src="dashboards/Financial_Analysis_Dashboard.png" width="500">
+</p>
 
 A financial analysis of five major tech companies and their performance between 2009 and 2022.
-The project involves data cleaning and transformation, exploratory data analysis, and key insights along with recommendations to support investor decision making.
 
 **Tools Used:** Excel, SQL (PostgreSQL), Tableau
 
