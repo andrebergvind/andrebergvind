@@ -28,7 +28,7 @@ Turning business data into actionable insights through analytics, visualisation,
 Provide insights to support investment decision-making.
 
 **Skills Demonstrated:**
-Data Cleaning • Financial Analysis • Data Visualisation • Financial Decision-Making
+Data Cleaning • Financial Analysis • SQL • Data Visualisation • Financial Decision-Making
 
 🔗 [Tableau Dashboard](https://public.tableau.com/views/TechCompaniesFinancialAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 🔗 [Project Repository](https://github.com/andrebergvind/big-tech-financial-analysis.git) 
 
