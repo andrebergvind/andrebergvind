@@ -4,7 +4,7 @@
 
 Business Graduate | Google Data Analytics Certificate Holder
 
-Turning business data into actionable insights through analytics, visualisation, and structured problem-solving.
+Turning business data into actionable insights through analytics and structured problem-solving.
 
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
