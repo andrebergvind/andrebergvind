@@ -1,4 +1,4 @@
-# 📊 André Bergvind | Analytics Portfolio
+# 📊 André Bergvind | Projects Portfolio
 
 👋 Hi, I'm André Bergvind
 
