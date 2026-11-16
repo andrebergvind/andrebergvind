@@ -9,7 +9,8 @@ This portfolio contains projects that demonstrate my approach to business analys
 
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboarding-orange)
+![Python](https://img.shields.io/badge/Python-Programming-black)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
 ![Power BI](https://img.shields.io/badge/Power_BI-Visualization-yellow)
 
 ## Featured Projects
