@@ -15,10 +15,23 @@ This portfolio contains projects that demonstrate my approach to business analys
 
 ## Featured Projects
 
-📈 Financial Analysis • 🚚 Operations Analysis • 🚲 Consumer Behaviour Analysis • 🧠 Cognitive Performance Analysis
+📦 Inventory Management System • 📈 Financial Analysis • 🚚 Operations Analysis • 🚲 Consumer Behaviour Analysis • 
 
 ---
+## 📦 Inventory Management System
 
+### A command-line Python application for storing and tracking inventory items.
+
+**Objective:**
+Facilitate inventory management.
+Provide a lightweight, error-handled tool to manage store or warehouse inventory, monitor total value, and prevent stockouts.
+
+**Skills Demonstrated:**
+Python • Data Structures (Dictionaries) • Input Validation • CLI Application Design • Inventory Control
+
+🔗 [Project Repository](https://github.com/andrebergvind/inventory-management-system)
+
+---
 ## 📈 Big Tech Financial Analysis
 
   <img src="dashboards/Financial_Analysis_Dashboard.png" width="600">
@@ -66,23 +79,6 @@ Convert casual riders into annual members.
 Data Cleaning • SQL • Data Visualisation • Behavioural Analysis
 
 🔗 [Tableau Dashboard](https://public.tableau.com/views/CyclisticAnalysis_17737226068460/UserBehaviourOverview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)  🔗 [Project Repository](https://github.com/andrebergvind/Cyclistic-bike-share-analysis) 
-
----
-## 🧠 Exercise & Student Cognitive Performance Analysis
-  <img src="dashboards/dashboard_cognitive_effects.png" width="600">
-
-
-### A research project exploring the relationship between exercise, cognitive functioning, and short-term academic productivity among university students
-
-**Research Goal:**
-Contribute to a deeper understanding of the relationship between physical activity and cognitive outcomes, while also providing practical recommendations that may help students optimise their exercise routines to enhance productivity.
-
-
-**Skills Demonstrated:**
-Survey Research • Data Cleaning • Data Visualisation • Quantitative Analysis • Qualitative Analysis 
-
-
-🔗 [Tableau Dashboard](https://public.tableau.com/views/CapstoneProjectExerciseandAcademicProductivityAnalysis/CognitiveEffectsofExercise?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  🔗 [Project Repository](https://github.com/andrebergvind/Capstone-Project-exercise-productivity-analysis.git)
 
 ---
 ## 📫 Contact
